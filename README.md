@@ -1,16 +1,47 @@
-## Hi there 👋
+# 👋 Hi, I'm **Nodcat**
 
-<!--
-**nodcat/nodcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> 🧠 A minimalist programmer from China who believes that **functionality and experience come before everything else**.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🪶 About Me
+
+- 💻 I pursue **simplicity in code** and **clarity in function** — every line should have a purpose.  
+- ✍️ I'm also a **technical blogger** sharing insights and projects on CSDN.  
+- 🧩 I enjoy exploring **clean architectures**, **blockchain**, and **creative problem-solving** through code.  
+
+---
+
+### 🌐 Connect with Me
+
+- 📧 **Email:** [nodcat@139.com](mailto:nodcat@139.com)  
+- 💬 **WeChat:** nodcat  
+- 📝 **CSDN Blog:** [https://blog.csdn.net/2202_75618418](https://blog.csdn.net/2202_75618418)  
+- 🕸️ **Website:** [https://nodcat.com](https://nodcat.com)  
+
+---
+
+### ⚙️ My Philosophy
+
+> “Simplicity is not the absence of complexity,  
+> but the art of removing the unnecessary.”
+
+I code to create experiences — not just software.  
+Every project should feel *smooth*, *functional*, and *purposeful*.
+
+---
+
+### 🧰 Tech & Tools I Use
+
+```text
+Languages:   Rust | Python | Java
+Frameworks:  Spring Boot | Node.js | Solana
+Focus:       Blockchain • System Design • Web Development
+```
+### 📈 GitHub Stats
+
+![Nodcat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodcat&show_icons=true&theme=calm&hide_title=true)
+
+
+
+**⭐ “Less, but better.” — Nodcat**
