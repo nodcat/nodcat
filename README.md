@@ -40,7 +40,7 @@ Focus:       Blockchain • System Design • Web Development
 ```
 ### 📈 GitHub Stats
 
-![Nodcat's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nodcat&show_icons=true&theme=calm&hide_title=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nodcat&theme=default)
 
 
 
