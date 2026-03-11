@@ -14,7 +14,7 @@
 
 ### 🌐 Connect with Me
 
-- 📧 **Email:** [nodcat@139.com](mailto:nodcat@139.com)  
+- 📧 **Email:** [nodcat@139.com](mailto:nodcat@139.com) | [nodcat@hotmail.com](mailto:nodcat@hotmail.com)
 - 💬 **WeChat:** nodcat  
 - 📝 **CSDN Blog:** [https://blog.csdn.net/2202_75618418](https://blog.csdn.net/2202_75618418)  
 - 🕸️ **Website:** [https://nodcat.com](https://nodcat.com)  
